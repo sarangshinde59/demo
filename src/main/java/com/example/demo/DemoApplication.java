@@ -14,7 +14,8 @@ public class DemoApplication {
 		 int e;
 		 int f;
 		 int i;
-		 int j;
+		 int j;int k;
+		 
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
