@@ -18,7 +18,7 @@ public class DemoApplication {
 		 int kk;
 		 int abcs;
 		 int zzz;
-		 
+		 int ui;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
