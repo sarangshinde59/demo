@@ -20,7 +20,6 @@ public class DemoApplication {
 		 int zzz;
 		 int ui;
 		 int sarang; 
-		 int laila;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
