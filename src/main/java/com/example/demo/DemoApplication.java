@@ -19,7 +19,8 @@ public class DemoApplication {
 		 int abcs;
 		 int zzz;
 		 int ui;
-		 int sarang;
+		 int sarang; 
+		 int laila;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
